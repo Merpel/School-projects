@@ -1,0 +1,54 @@
+body {
+    background-color: #33ccff;
+    background: linear-gradient(to right, #33ccff 0%, #C7ECF2 60%, #ccffff 100%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 3em;
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+    font-style: italic;
+    font-weight: 900;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+    font-weight: 400;
+    text-decoration: underline;
+    margin-top: 3em;
+}
+
+h4 {
+    font-size: 1em;
+    font-style: italic;
+    border-style: inset;
+    border-width: 4px;
+    display: inline-block;
+    padding: 0.3em;
+    background-color: aliceblue;
+}
+
+p {
+    font-size: 1.7em;
+    text-align: center;
+    margin-top: -0.3em;
+}
+
+#list {
+    margin-top: 3.5em;
+}
+
+#instructions {
+    margin-top: 4em;
+    text-align: center;
+}
+
+.ind {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    border: 2px solid black; 
+    display: inline-block;
+  }

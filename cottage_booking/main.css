@@ -1,0 +1,41 @@
+body {
+    background-color: aliceblue;   
+    display: flex;
+    flex-direction: column;
+}
+h1 {
+    font-style: italic;
+    margin-left: 30%;
+    font-size: 40px;
+}
+legend {
+    margin-left: 18.0em;
+    margin-right: -22.0em;
+}
+#formarea {
+    margin-left: 20%;
+}
+p {
+    margin-left: 21%;
+}
+#fieldset1 {
+    width: 70%;
+    border-style: solid;
+    border-width: 4px;
+}
+.information {
+    display: flex;
+    flex-direction: column;
+    margin-right: 5%;
+}
+.information label {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.6em;
+}
+#bookingform input {
+    border: 1px solid gray;
+}
+#button {
+    margin-top: 0.3em;
+}

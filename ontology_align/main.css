@@ -1,0 +1,48 @@
+.main {
+    width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: azure;
+}
+.ontologies {
+    display: flex;
+    flex-direction: row;
+    margin-left: 1.0em;
+    margin-top: 0.5em;
+    font-size: 1.2em;
+}
+.ont2 {
+    margin-left: 1.5em;
+    align-items: center;
+}
+#align {
+    margin-top: 0.5em;
+    margin-left: 1.3em;
+    font-size: 0.9em;
+}
+h1, h2, #message{
+    text-align: center;
+}
+h2{
+    visibility: hidden;
+}
+table td {
+    border-style: solid;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    font-size: 1.1em;
+} 
+table th {
+    font-size: 1.3em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}  
+table {
+    margin-left: 1.5em;
+    border-collapse: collapse;
+}
+#accept {
+    margin-left: 23.0em;
+    margin-top: 0.5em;
+    font-size: 0.9em;
+}
